@@ -1,0 +1,13 @@
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.exe
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.deps.json
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.runtimeconfig.json
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.runtimeconfig.dev.json
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.dll
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\bin\Debug\netcoreapp3.1\web-jobs-exe.pdb
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.csprojAssemblyReference.cache
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.AssemblyInfoInputs.cache
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.AssemblyInfo.cs
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.csproj.CoreCompileInputs.cache
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.dll
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.pdb
+C:\Users\angelozi\source\repos\web-jobs-exe\web-jobs-exe\obj\Debug\netcoreapp3.1\web-jobs-exe.genruntimeconfig.cache
